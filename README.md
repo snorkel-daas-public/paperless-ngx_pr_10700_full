@@ -23,6 +23,7 @@ Paperless-ngx is the official successor to the original [Paperless](https://gith
 
 Thanks to the generous folks at [DigitalOcean](https://m.do.co/c/8d70b916d462), a demo is available at [demo.paperless-ngx.com](https://demo.paperless-ngx.com) using login `demo` / `demo`. _Note: demo content is reset frequently and confidential information should not be uploaded._
 
+
 - [Features](#features)
 - [Getting started](#getting-started)
 - [Contributing](#contributing)
